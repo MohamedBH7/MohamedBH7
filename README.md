@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning .Net<br>🎯 Goals: Web Full Stack</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Back-End<br>🎯 Goals: Web Full Stack</p>
 
 ###
 
