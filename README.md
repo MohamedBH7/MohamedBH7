@@ -50,7 +50,7 @@
 ###
 
 <div align="center">
-  <a href="[https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)">
+  <a href="www.linkedin.com/in/mohammed-alsaffar-3bb44827a">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
     <a href="https://www.youtube.com/@Mohamed_Alsaffar">
