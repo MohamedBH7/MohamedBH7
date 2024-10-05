@@ -13,7 +13,6 @@
 <p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Back-End<br>🎯 Goals: Web Full Stack</p>
 <p>malsaffar58@gmail.com</p>
 ###
-
 <h2 align="left">I code with</h2>
 
 ###
