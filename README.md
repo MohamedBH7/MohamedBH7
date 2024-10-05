@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mohamed Alsaffar and I'm C# Developer</p>
+<p align="left">My name is Mohamed Alsaffar and I'm .NET Developer</p>
 
 ###
 
